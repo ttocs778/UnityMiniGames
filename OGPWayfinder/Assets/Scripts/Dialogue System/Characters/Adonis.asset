@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6232f23615a46ed49a622ef017e8c098, type: 3}
+  m_Name: Adonis
+  m_EditorClassIdentifier: 
+  characterName: Adonis
+  emotion: 0
+  sprites:
+  - {fileID: 21300000, guid: 765842d9f2112974999fd97a06a4bd9b, type: 3}
+  - {fileID: 21300000, guid: f672e153364daf64eadb53e1bb5eacae, type: 3}
+  - {fileID: 21300000, guid: cca3c7c1e830ad14ea92db575c70e8ef, type: 3}
+  - {fileID: 21300000, guid: f672e153364daf64eadb53e1bb5eacae, type: 3}

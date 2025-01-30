@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 168760f91a3a50240b07a519e7b07fcc, type: 3}
+  m_Name: MainBrain
+  m_EditorClassIdentifier: 
+  info:
+  - title: Griswold is a douche.
+    details: Griswold is a pompous douchebag. He is very aggressive and irritable.
+    unlocked: 0
+  - title: Griswold knows karate.
+    details: Griswold is a black belt. I probably can't take him on my own.
+    unlocked: 0
+  - title: 
+    details: 
+    unlocked: 0

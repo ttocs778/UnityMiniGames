@@ -1,0 +1,22 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
+
+public class InteractionUIPanel : MonoBehaviour
+{
+    [SerializeField] private Image progressBar;
+    [SerializeField] private TextMeshProUGUI tooltipText;
+
+    public void SetTooltip(string tooltip){
+        tooltipText.SetText(tooltip);
+    }
+    public void UpdatedProgressBar(float fillAmount){
+        progressBar.fillAmount = fillAmount;
+    }
+    public void ResetUI(){
+        progressBar.fillAmount=0f;
+        tooltipText.SetText("");
+    }
+}
