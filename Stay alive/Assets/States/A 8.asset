@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 8
+  m_EditorClassIdentifier: 
+  storyText: 'Nathan leads you to a small path, trying to sneak away from zombies
+    group. You enter the small path, and several zombies on the ground chew something.
+    Nathan tells you to hit their head, and he is ready to do that.
+
+
+    What to
+    do?
+
+    1. Hit the head
+
+    2. You found there is a gun on the ground, and
+    try to pick it.'
+  nextStates:
+  - {fileID: 11400000, guid: bf0c96648ef814833aed7de9024efc75, type: 2}
+  - {fileID: 11400000, guid: eefe5784ed9b14299afdd1cc4a375815, type: 2}

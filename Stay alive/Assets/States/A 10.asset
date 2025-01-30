@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 10
+  m_EditorClassIdentifier: 
+  storyText: "On the big road, you hide and go, successfully cross the dangerous
+    zone. You found there is a helicopter hovering in the sky. \n\nWhat to do?\n1.
+    Yell to get the helicopter to notice you.\n2. Pick the US flag falling down near
+    you, and waving it to let helicopter notice you."
+  nextStates:
+  - {fileID: 11400000, guid: 8a7dfc18d5c214176af7f98ce29cadd3, type: 2}
+  - {fileID: 11400000, guid: 88b29c703bff3427ca9967fe38e8f41d, type: 2}

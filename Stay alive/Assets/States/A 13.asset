@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 13
+  m_EditorClassIdentifier: 
+  storyText: 'On the small road, you encounter several zombies, when you trying to
+    hit them by baseball bat. They were smashed to pieces by a billboard that fell
+    from the building. A human slowly moves out from building, you check his status,
+    and decide to go together.
+
+
+    What to do?
+
+    1. Search some resources there.
+
+
+
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: bf0c96648ef814833aed7de9024efc75, type: 2}

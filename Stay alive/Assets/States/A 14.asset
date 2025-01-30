@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 14
+  m_EditorClassIdentifier: 
+  storyText: 'After you kill several zombies by the gun, many zombies from big road
+    was attracted to small path, and they surround your group. Your teammate trys
+    to rush up and tells you to use gun to cover him so that you can escape together.
+    But you think you may be attacked cause gun''s huge sound.
+
+
+    What to do?
+
+    1.
+    Sneak away
+
+    2. Cover your teammate
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 95144a55ac9244cc3b166bd9c1a4558c, type: 2}
+  - {fileID: 11400000, guid: 90d74fe00a7eb4ed880ff9edd108a243, type: 2}

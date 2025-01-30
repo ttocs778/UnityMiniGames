@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 9
+  m_EditorClassIdentifier: 
+  storyText: 'You have to stay alone now, you grab some basic needs and put it in
+    your bag, leaving the house. There is a bunch of zombies around the house, and
+    there are two ways to get out of here.
+
+
+    Which path?
+
+    1. Small path,
+    may not have many zombies, but has unknown danger
+
+    2. Big road, many zombies
+    wander, but you may find other survivals'
+  nextStates:
+  - {fileID: 11400000, guid: 515678eea588f4975b783543d8bdd6e4, type: 2}
+  - {fileID: 11400000, guid: ac053a483121445979f69084b5336791, type: 2}

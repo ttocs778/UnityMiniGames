@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 6
+  m_EditorClassIdentifier: 
+  storyText: 'You kill your best bro Nathan.
+
+
+    What to do?
+
+    1. Sad, but continuing
+    survive'
+  nextStates:
+  - {fileID: 11400000, guid: d08cdd2d6aef740adb0596d0c12cdee3, type: 2}

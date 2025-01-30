@@ -1,0 +1,6 @@
+# Ignore Unity-generated files
+Library/
+Logs/
+Temp/
+UserSettings/
+.DS_Store

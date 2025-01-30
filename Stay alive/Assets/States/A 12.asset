@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 12
+  m_EditorClassIdentifier: 
+  storyText: 'Since you are trying to pick the gun. Nathan is alone in the fight,
+    zombies attack him easily and quickly... He dies.
+
+
+    What to do?
+
+    1. Shoot
+    the zombie'
+  nextStates:
+  - {fileID: 11400000, guid: c675924eebe374ff185d776dfed9642a, type: 2}

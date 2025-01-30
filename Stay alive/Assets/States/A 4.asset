@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7402b09a7a45eaa5b4c46977b37bd, type: 3}
+  m_Name: A 4
+  m_EditorClassIdentifier: 
+  storyText: 'You yell, "Bunch of idiots, get out of here, don''t disturb my sleep!"
+    When you see that no one is paying attention to you, you shout again. Suddenly
+    everyone turns their heads to look at you, and you realise that they look like
+    zombies in a film, with rotting bodies, horrible looks, and making weird noises
+    like they''re chewing on something. You are taken aback and crouch down to avoid
+    them. But it seems that the gang of zombies have spotted you and are circling
+    towards you
+
+
+    What to do?
+
+    1. Grab the base ball bat and hide under the
+    bed
+
+    2. Grab the base ball bat and run out of the door'
+  nextStates:
+  - {fileID: 11400000, guid: f0dcba47daa9246b39942d26b4b8b105, type: 2}
+  - {fileID: 11400000, guid: 669d284865126468cac351236a31405b, type: 2}
